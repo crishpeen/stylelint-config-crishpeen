@@ -1,5 +1,5 @@
 {
-	"name": "stylelint-config-crishpeen",
+	"name": "@crishpeen/stylelint-config-crishpeen",
 	"version": "1.0.0",
 	"description": "Crishpeen' shareable config for stylelint",
 	"keywords": [
